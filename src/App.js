@@ -14,7 +14,7 @@ function App(){
   }
 return (
   <>
-  <h1>fake api store</h1>
+  <h1> api store</h1>
   <div className='container'>
     {
       clothing.map((values)=>{
