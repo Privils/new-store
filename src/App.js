@@ -26,7 +26,7 @@ return (
         <img src={values.image} alt='image' />
           <p className='description'>{values.description}</p>
           <p className='category'>{values.category}</p>
-          <p className='price'>{values.price}</p>
+          <p className='price'>Price is: {values.price}</p>
       </div>
     </div>
           </>
