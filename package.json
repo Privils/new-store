@@ -1,7 +1,7 @@
 {
   "homepage": "http:/Privils.github.io/new-store",
   "name": "new-api",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
